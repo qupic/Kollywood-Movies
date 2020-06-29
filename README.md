@@ -4,5 +4,5 @@ Everything here are based on Kollywood.
 
 ## Contributors
 
-[@Inamul-Hassan](https://github.com/Inamul-Hassan)
+[@Inamul-Hassan](https://github.com/Inamul-Hassan) <br>
 [@vishal-sr](https://github.com/vishal-sr)
