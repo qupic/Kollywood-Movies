@@ -1,2 +1,3 @@
 # Kollywood-Movies
-This repo contains dataset,notebooks and model we created for an ML Competition.
+This repo contains dataset,notebooks and models we created for an ML Competition.
+Everything here are based on Kollywood.
