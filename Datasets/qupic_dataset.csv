@@ -1,0 +1,107 @@
+SNo,Director,MovieName,ReleaseMonth,Genre,Actor,Actress,Comedian,ProductionHouse,Censorship,TargetAudience,CriticRating,HitOrFlop,ViewerRating
+1,GVM,VaaranamAayiram,Nov,Drama,Surya,Sameera Reddy,,AascarFlims,U,A,8,Hit,9.8
+2,Atlee,RajaRani,Sep,Romance,Arya,Nayanthara,Santhanam,FoxStarStudio,UA,A,7.6,Hit,8.5
+3,Siva,Veeram,Jan,Action,Ajith,Tamannaah,Santhanam,VijayaProductions,UA,B,6.5,Hit,7.8
+4,Vetrimaaran,VadaChennai,Oct,Action,Dhanush,AishwaryaRajesh,,WunderbarFilms,A,A,8.5,Hit,9.3
+5,Maniratnam,AayuthaEzhuthu,May,Thriller,Surya,Trisha,,MadrasTalkies,UA,B,7.8,Hit,8.4
+6,A.R.Murugadoss,Sarkar,Nov,Action,Vijay,KeerthySuresh,YogiBabu,SunPictures,U,B,6.8,Hit,8.1
+7,A.R.Murugadoss,Ghajini,Dec,Thriller,Surya,Asin,,SriSaravanaaCreations,U,A,7.3,Hit,8.7
+8,Siva,Vivegam,Aug,Action,Ajith,Kajal,,SathyaJyothiFilms,UA,B,5.6,Flop,6.1
+9,Hari,Thamizh,Apr,Drama,Prashanth,Simran,Vadivelu,AmuthaDuarairaj,U,B,6.1,Hit,6.9
+10,Vetrimaaran,Polladhavan,Nov,Action,Dhanush,DivyaSpandana,Santhanam,GroupCompany,UA,A,7.6,Hit,7.9
+11,K.S.Ravikumar,Aadhavan,Oct,Action,Surya,Nyanthara,Vadivelu,RedGiantMovies,U,B,5.2,Hit,7.1
+12,GVM,AchchamYenbadhuMadamaiyada,Nov,Romance,Simbu,ManjimaMohan,,PhotonKathaas,U,A,6.4,Flop,5.4
+13,K.S.Ravikumar,Jaggubhai,Jan,Action,SarathKumar,ShriyaSaran,Goundamani,UTVMotionPictures,U,B,3.9,Flop,4.3
+14,Myshkin,ChithiramPesuthadi,Feb,Drama,Narain,Bhavana,,DreambridgeProductions,U,B,7.1,Hit,7.6
+15,A.R.Murugadoss,Thuppakki,Nov,Thriller,Vijay,Kajal,Sathyan,V.Creations,U,A,7.9,Hit,8.9
+16,Atlee,Theri,Apr,Action,Vijay,Samantha,Rajandran,Thanu,UA,A,7.7,Hit,8.9
+17,Hari,Aaru,Dec,Action,Surya,Trisha,Vadivelu,Saran,UA,B,5.7,Hit,7.7
+18,Bala,AvanIvan,Jun,Drama,Vishal,MadhuShalini,,Thanu,UA,B,6.2,Flop,6.4
+19,Siva,Viswasam,Jan,Action,Ajith,Nayanthara,RoboShankar,SathyaJyothiFilms,UA,B,6.7,Hit,7.8
+20,Atlee,Mersal,Oct,Action,Vijay,NithyaMenon,Vadivel,ThenandalStudio,UA,A,7.7,Hit,8.4
+21,Shankar,Gentleman,Jul,Action,Arjun,Madhoo,,ARSFilm,UA,B,7.9,Hit,8.3
+22,Bala,TharaiThappattai,Jan,Drama,SasiKumar,Varalaxmi,,BStudios,UA,B,5.6,Flop,6.1
+23,KarthikSubbaraj,Iraivi,Jun,Drama,VijaySethupathi,PoojaDevariya,,ThirukumaranEntertainment,UA,B,8,Hit,8.5
+24,KarthikSubbaraj,Petta,Jan,Action,Rajini,Simran,,SunPictures,UA,B,7.3,Hit,7.9
+25,K.Selvaraghavan,MayakkamEnna,Nov,Romance,Dhanush,RichaLangella,,UTVMotionPictures,UA,A,7.6,Hit,8.1
+26,Shankar,Anniyan,Jun,Action,Vikram,Sadha,Vivek,AascarFilm,UA,B,8.2,Hit,8.6
+27,Shankar,Boys,Aug,Romance,Siddharth,Genelia,Vivek,SriSuryaMovies,UA,A,7.2,Hit,7.9
+28,Bala,NaanKadavul,Jan,Action,Arya,PoojaUmashakar,Singampuli,VasanVisualVentures,UA,B,7.8,Hit,8.1
+29,GVM,VinnaithaandiVaruvaayaa,Feb,Romance,Simbu,Trisha,VTVGanesh,EscapeArtistsMotionPictures,UA,A,8,Hit,9.4
+30,Bala,Nandha,Nov,Drama,Surya,Laila,Karunas,AparajeethFilms,UA,B,7.6,Hit,7.9
+31,K.S.Ravikumar,Linga,Dec,Drama,Rajinikanth,Anushka,Santhanam,RocklineProduction,U,B,5.6,Flop,7.1
+32,Bala,Sethu,Dec,Drama,Vikram,Abitha,Sriman,Kandasamy,UA,B,8.1,Hit,8.5
+33,Hari,Ayya,Jan,Drama,SarathKumar,Nayanthara,Vadivelu,KavithalayaaProductions,U,B,5.7,Hit,7.6
+34,Maniratnam,Ravan,Jun,Drama,Vikram,AishwaryaRai,,MadrasTalkies,UA,A,5.4,Hit,7.9
+35,KarthikSubbaraj,Penguin,Jun,Horror,,KreethySuresh,,KarthikSubbaraj,UA,B,4.7,Hit,6.7
+36,Shankar,Enthiran,Oct,Sci-fi,Rajinikanth,AishwaryaRai,,SunPictures,UA,B,7.1,Hit,9.5
+37,K.S.Ravikumar,Manmadhan Ambu,Dec,Drama,Kamal,Trisha,,RedGiantMovies,U,A,5.6,Flop,6.8
+38,GVM,KaakhaKaakha,Aug,Thriller,Surya,Jyothika ,Manobala,SThanu,UA,B,8,Hit,8.2
+39,Myshkin,Mugamoodi,Aug,Action,Jiiva,Pooja ,,UTVMotionPictures,U,A,4.9,Flop,5.1
+40,Myshkin,Anjathe,Feb,Thriller,Prasanna,Vijayalakshmi,,NemichandJhabak,U,B,8.1,Hit,8.9
+41,GVM,Minnale,Feb,Romance,Madhavan,Reema,Vivek,SunandaMuraliManohar,U,A,7.6,Hit,9.2
+42,Myshkin,Pisasu,Dec,Horror,Naga,Prayaga Martin,,B-Studios,UA,A,7.6,Flop,8.8
+43,A.R.Murugadoss,Darbar,Jan,Action,Rajinikanth,Nayanthara,YogiBabu,LycaProduction,U,B,6.2,Flop,7.3
+44,Shankar,Indian,May,Action,Kamal,ManishaKoirala,,SriSuryaMovies,UA,B,8.1,Hit,9.1
+45,K.Selvaraghavan,IrandamUlagam,Nov,Romance,Arya,Anushka,,PVPCinema,U,A,5.7,Flop,5.1
+46,A.R.Murugadoss,Dheena,Jan,Action,Ajith,Laila,,VijayamCineCombines,U,B,7.2,Hit,7.9
+47,Shankar,Robot 2.0,Nov,Sci-fi,Rajinikanth,AmyJackson,,LycaProduction,UA,B,6.5,Flop,7.9
+48,Myshkin,Yutham Sei,Feb,Drama,Cheran,Ananyaa Sha,,AGSEntertainment,A,A,8,Hit,8.6
+49,Myshkin,Thupparivaalan,Sep,Thriller,Vishal,AndreaJeremiah,,VishalFlimFactory,UA,A,7.5,Hit,8.1
+50,Hari,Singam 3,Feb,Action,Surya,Anushka,Soori,StudioGreen ,U,B,6.3,Flop,7.2
+51,Maniratnam,KannathilMauthamittal,Feb,Drama,Maadavan,Simran,,MadrasTalkies,UA,A,8.4,Hit,8.8
+52,K.Selvaraghavan,7/G.RainbowColony,Oct,Drama,RaviKrishna,SoniaAgarwal,,SriSuryaMovies,U,A,7.8,Hit,8.2
+53,Hari,Singam 2,Jul,Action,Surya,Anushka,Vivek,RelienceEntertainment,U,B,6.3,Hit,7.9
+54,K.Selvaraghavan,KaadhalKonden,Jul,Drama,Dhanush,SoniaAgarwal,,R.K.Productions,U,A,7.9,Hit,7.6
+55,Bala,Paradesi,Mar,Drama,Atharvaa,VedhikaKumar,,BStudios,UA,B,4.5,Hit,5.9
+56,Shankar,Kadhalan,Sep,Romance,PrabhuDeva,Nagma,Vadivel,ARSFilm,UA,A,7.2,Flop,7.7
+57,Maniratnam,Guru,Jan,Drama,AbhishekBachchan,AishwaryaRai,,MadrasTalkies,UA,B,7.7,Hit,7.8
+58,Maniratnam,Kadal,Feb,Romance,GauthamKarthik,ThulasiNair,,MadrasTalkies,UA,A,5.4,Hit,7.8
+59,K.S.Ravikumar,Varalaaru,Oct,Drama,Ajith,Asin,Manobala,NIC.Arts,UA,B,7.1,Hit,8.7
+60,KarthikSubbaraj,Mercury,Apr,Thriller,PrabhuDeva,Indhuja,,PenIndia,UA,B,6.1,Flop,7.5
+61,Myshkin,OnaayumAattukkuttiyum,Sep,Thriller,Sri,NeelimaRani,,LoneWolfProductions,UA,A,8.2,Hit,9
+62,Siva,Siruthai,Jan,Action,Karthi,Tamannaah,Santhanam,StudioGreen ,UA,A,5.9,Hit,8.2
+63,A.R.Murugadoss,7AumArivu,Oct,Sci-fi,Surya,ShrutiHaasan,,RedGiantMovies,U,A,6.2,Hit,8.3
+64,GVM,VettaiyaaduVilaiyaadu,Aug,Thriller,Kamal,Jyothika,VTVGanesh,PhotonKathaas,UA,B,7.9,Hit,8.6
+65,Maniratnam,Alaipayuthey,Apr,Romance,Maadavan,Shalini,,MadrasTalkies,UA,A,8.3,Hit,9.1
+66,Maniratnam,Uyire,Aug,Romance,ShahRukhKhan,ManishaKoirala,,MadrasTalkies,UA,A,7.6,Hit,8.3
+67,Hari,Singam,May,Action,Surya,Anushka,Vivek,StudioGreen ,UA,B,6.8,Hit,8.2
+68,Shankar,Mudhalvan,Nov,Action,Arjun,ManishaKoirala,Vadivel,SFilms,UA,B,8.3,Hit,8.7
+69,Hari,Venghai,Jul,Action,Dhanush,Tamannaah,GanajKaruppu,VijayaVauhiniStudios,UA,A,4.6,Flop,5.8
+70,K.Selvaraghavan,PudhuPettai,May,Drama,Dhanush,Sneha,,LakshmiMOvieMakers,U,A,8.5,Hit,8.1
+71,A.R.Murugadoss,Kaththi,Oct,Action,Vijay,Samantha,Sathish,LycaProduction,U,A,7.9,Hit,9.1
+72,Hari,Vel,Nov,Action,Surya,Asin,Vadivelu,SreeRajakaalaiamman,U,B,6,Hit,7.8
+73,Maniratnam,ChekkaChivandhaVaanam,Sep,Action,VijaySethupathi,Jyothika,,MadrasTalkies,UA,A,7.3,Hit,8.7
+74,GVM,YennaiArindhaal,Feb,Action,Ajith,Trisha,,A.M.Rathnam,UA,B,7.3,Hit,8.2
+75,Hari,Arul,Jun,Action,Vikram,Jyothika ,Vadivelu,SriSuryaMovies,U,B,5.6,Flop,7.3
+76,K.S.Ravikumar,Panchantanthiram,Jun,Drama,Kamal,Simran,Nagesh,SriRajlakshmiFlims,U,B,8,Hit,9
+77,Atlee,Bigil,Oct,Action,Vijay,Nayanthara,Vivek,AGSEntertainment,U,B,6.8,Hit,8.2
+78,KarthikSubbaraj,MeyaadhaMaan,Oct,Romance,Vaibhav,Priya,VivekPrasanna,KarthikSubbaraj,UA,B,7.2,Flop,7.9
+79,K.S.Ravikumar,Villain,Nov,Thriller,Ajith,Meena,,NIC.Arts,U,B,7.1,Hit,7.9
+80,KarthikSubbaraj,Jigarthanda,Aug,Thriller,Siddharth,LakshmiMenon,Karunakaran,GroupCompany,UA,A,8.3,Hit,8.9
+81,K.Selvaraghavan,AyirathilOruvan,Jan,Action,Karthi,AndreaJeremiah,,DreamValleyCorporation,UA,A,7.8,Hit,8.5
+82,Hari,Saamy Square,Sep,Action,Vikram,KeerthySuresh,Soori,ThameensFilms,U,B,4.5,Flop,5.1
+83,K.S.Ravikumar,Saravana,Feb,Romance,Simbu,Jyotika,Vivek,AVMProduction,U,A,5,Hit,6.4
+84,K.S.Ravikumar,Aethiree,Apr,Drama,Madhavan,Kaniha,Vivek,MarsEntertainmentGroup,U,B,5.3,Flop,5.9
+85,Bala,Pithamagan,Oct,Drama,Surya,Laila,Manobala,VADurai,UA,B,8.4,Hit,8.6
+86,GVM,EnaiNokiPaayumThota,Nov,Romance,Dhanush,MeghaAkash,,PhotonKathaas,UA,A,5.7,Flop,5.2
+87,Shankar,I,Jan,Action,Vikram,AmyJackson,Santhanam,AascarFilm,UA,B,7.3,Hit,8.9
+88,Maniratnam,KaatruVeliyidai,Apr,Romance,Karthi,AditiRaoHydari,RJBalaji,MadrasTalkies,UA,A,5.9,Hit,7.8
+89,Siva,Vedalam,Nov,Action,Ajith,LakshmiMenon,Soori,SriSaiRaamProdutions,UA,B,6.2,Hit,7.3
+90,GVM,NeethaaneEnPonvasantham,Dec,Romance,Jiiva,Samantha,Santhanam,PhotonKathaas,U,A,6.5,Hit,5.8
+91,Vetrimaaran,Aadukalam,Jan,Action,Dhanush,Taapsee,,GroupCompany,UA,A,8.1,Hit,8.6
+92,Vetrimaaran,Asuran,Oct,Action,Dhanush,ManjuWarrier,,VCreations,UA,B,8.6,Hit,9.2
+93,K.S.Ravikumar,Dasavatharam,Jun,Action,Kamal,Asin,,AascarFilms,U,B,7.2,Hit,9.2
+94,Shankar,Nanban,Jan,Drama,Vijay,Ileana,Santhanam,GeminiFilm,UA,A,7.4,Hit,9.3
+95,Hari,Bharani,Jan,Drama,Vishal,MukthaGeorge,GanajKaruppu,VijayaVauhiniStudios,U,B,5.8,Flop,6.7
+96,Myshkin,Psycho,Jan,Thriller,UdhayanidhiniStalin,AditiRao,,Arun Mozhi Manickam,A,A,6.3,Hit,9.2
+97,Bala,Naachiyaar,Feb,Drama,GVPrakash,Jyothika,,BStudios,UA,B,6.8,Flop,7.1
+98,Shankar,SivajiTheBoss,Jun,Action,Rajinikanth,ShriyaSaran,Vivek,AVM,UA,B,7.5,Hit,8.7
+99,Hari,Saamy,May,Action,Vikram,Trisha,Vivek,KavithalayaaProductions,U,B,7.3,Hit,8.2
+100,Maniratnam,OKadhalKanmani,Apr,Romance,DulquerSalmaan,NithyaMenon,,MadrasTalkies,UA,A,7.4,Hit,8.3
+101,K.Selvaraghavan,NGK,May,Action,Surya,SaiPallavi,,DreamWarriorPictures,UA,B,6,Flop,6.9
+102,Hari,Kovil,Jan,Drama,Simbu,SoniaAgarwal,Vadivelu,A.M.Rathnam,U,B,5.5,Flop,6.9
+103,Lokesh Kanagaraj,Kaithi,Oct,Thriller,Karthi,Deepthi,,DreamWarriorPictures,UA,A,8.5,Hit,9.5
+104,Shankar,Jeans,Apr,Romance,Prashanth,AishwaryaRai,Senthil,AmritrajSolomonCommunications,UA,A,6.5,Hit,7.9
+105,Hari,Seval,Oct,Drama,Bharath,Simran,Vadivelu,JinnahCreations,U,B,6,Flop,7.3
+106,Hari,Poojai,Oct,Action,Vishal,ShrutiHaasan,Soori,VislhalFlimFacory,UA,B,5,Flop,7.1
